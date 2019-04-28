@@ -1,0 +1,14 @@
+(my_py_ml) Arjuns-MacBook-Pro:homework-3-4-testing-exceptions-and-coding-style-sinarj Arjun_Singh$ pycodestyle --first dataframe.py 
+(my_py_ml) Arjuns-MacBook-Pro:homework-3-4-testing-exceptions-and-coding-style-sinarj Arjun_Singh$ flake8 dataframe.py 
+(my_py_ml) Arjuns-MacBook-Pro:homework-3-4-testing-exceptions-and-coding-style-sinarj Arjun_Singh$ pylint dataframe.py 
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+(my_py_ml) Arjuns-MacBook-Pro:homework-3-4-testing-exceptions-and-coding-style-sinarj Arjun_Singh$ pylint test_dataframe.py 
+
+--------------------------------------------------------------------
+Your code has been rated at 10.00/10 (previous run: 10.00/10, +0.00)
+
+(my_py_ml) Arjuns-MacBook-Pro:homework-3-4-testing-exceptions-and-coding-style-sinarj Arjun_Singh$ pycodestyle --first test_dataframe.py 
+(my_py_ml) Arjuns-MacBook-Pro:homework-3-4-testing-exceptions-and-coding-style-sinarj Arjun_Singh$ flake8 test_dataframe.py
